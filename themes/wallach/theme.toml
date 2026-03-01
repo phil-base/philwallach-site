@@ -1,0 +1,6 @@
+name = "Wallach"
+license = "MIT"
+description = "A minimal, typography-focused theme for philwallach.com"
+
+[author]
+  name = "Phil Wallach"

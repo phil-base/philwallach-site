@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $series := .Sections }}
+  {{ if $series }}
+    <h2>Series</h2>
+    {{ range $series.ByWeight }}
+      <div class="series-card">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        <span class="chapter-count">{{ len .RegularPages }} {{ if eq (len .RegularPages) 1 }}chapter{{ else }}chapters{{ end }}</span>
+      </div>
+    {{ end }}
+  {{ end }}
+
+  {{ $essays := .RegularPages }}
+  {{ if $essays }}
+    <h2>Essays</h2>
+    {{ range $essays.ByDate.Reverse }}
+      <div class="essay-item">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ if not .Date.IsZero }}
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2006" }}</time>
+        {{ end }}
+      </div>
+    {{ end }}
+  {{ end }}
+</article>
+{{ end }}

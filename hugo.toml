@@ -1,0 +1,39 @@
+baseURL = "https://philwallach.com/"
+languageCode = "en-us"
+title = "Phil Wallach"
+theme = "wallach"
+
+[params]
+  description = "Engineering leader, systems thinker, and builder of meaningful tools."
+  author = "Phil Wallach"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+  [[menu.main]]
+    name = "Now"
+    url = "/now/"
+    weight = 4
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5

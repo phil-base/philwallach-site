@@ -20,4 +20,4 @@ I'm currently leading AI and engineering acceleration there.
 
 ## Coptic Cross Games `beta`
 
-[Coptic Cross Games](https://github.com/phil-base/coptic-cross-games) is a collection of 30 free, print-and-play card and board games built around "Formation Through Play" — educational games grounded in Coptic Orthodox theology and spirituality. Games cover scripture, saints, liturgical life, and virtue, designed for families, Sunday schools, and youth groups. Built with Hugo and deployed on GitHub Pages.
+[Coptic Cross Games](https://copticcrossgames.com) is a collection of 30 free, print-and-play card and board games built around "Formation Through Play" — educational games grounded in Coptic Orthodox theology and spirituality. Games cover scripture, saints, liturgical life, and virtue, designed for families, Sunday schools, and youth groups. Built with Hugo and deployed on GitHub Pages.

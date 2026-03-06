@@ -4,14 +4,6 @@ title: "Projects"
 
 ## ComplyFlow
 
-My main focus. [ComplyFlow](https://complyflow.com.au) is a compliance management platform for Australian businesses — helping them track obligations, manage audits, and stay on top of regulatory requirements without drowning in spreadsheets.
+I co-founded [ComplyFlow](https://www.complyflow.com) in 2009. It's now an AI-first contractor management and compliance platform used by some of Australia's largest property managers, manufacturers, mining companies, and logistics operators. The platform automates document verification, compliance tracking, safety inspections, incident management, and site inductions.
 
----
-
-## Side projects
-
-I tend to have a few things in the workshop at any given time. These are in various stages of progress:
-
-- **Clearpaths** — a structured goal-tracking system for deep work and long-range planning
-- **Cartel CLI** — a command-line economic simulation game, an experiment in minimal-interface game design
-- **The Architect's Manual** — a systems-thinking workbook for designing and navigating complex realities
+I'm currently leading AI and engineering acceleration there.

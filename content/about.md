@@ -2,10 +2,12 @@
 title: "About"
 ---
 
-I'm Phil Wallach — an engineering leader and founder based in Sydney, Australia.
+I'm Phil Wallach — an engineering leader based in Sydney, Australia.
 
-I'm currently building [ComplyFlow](https://complyflow.com.au), a compliance platform for Australian businesses. It's the kind of problem I'm drawn to: messy regulatory complexity that can be tamed with good software and clear thinking.
+I co-founded [ComplyFlow](https://www.complyflow.com) and after years in an advisory capacity, I've returned in an active role as AI & Engineering Acceleration Lead. The focus is on integrating AI into engineering workflows in a way that increases delivery leverage without increasing operational risk — embedding it into development, review, governance, and product systems so it becomes durable, measurable, and commercially relevant.
 
-Over the past few decades I've led engineering teams, shipped complex products, and developed a deep interest in the systems underneath — how organisations work, how software ages, and how to build things that hold up over time.
+ComplyFlow is contractor management and compliance software that helps organisations track workforce compliance, automate document verification, manage safety inspections, and handle incident reporting. It's used across property management, manufacturing, mining, and logistics, and won H&S Solution of the Year at the Australian Construction Awards.
 
-I think about software architecture, product design, strategy, and the structures that shape how people and teams actually operate.
+Before returning to ComplyFlow, I spent several years at Atlassian working on large-scale revenue and billing transformation — aligning legacy systems into a unified cloud platform.
+
+I think in systems: how organisations work, how software ages, and how to build things that hold up over time.

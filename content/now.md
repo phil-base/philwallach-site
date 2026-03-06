@@ -6,8 +6,6 @@ title: "Now"
 
 This is a [now page](https://nownownow.com/about) — a snapshot of what I'm focused on right now.
 
-**Building ComplyFlow.** Early stage, working through product-market fit and the core platform. Compliance management for Australian businesses.
-
-**Tinkering with side projects.** Clearpaths, Cartel CLI, and a few other things I pick up and put down as the mood strikes.
+**Back at ComplyFlow full-time.** After years in an advisory role and a stint at Atlassian, I've returned as AI & Engineering Acceleration Lead. The focus is embedding AI into engineering and product workflows — making it durable and disciplined, not experimental.
 
 **Living in Sydney** with my family.

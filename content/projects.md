@@ -12,4 +12,6 @@ I'm currently leading AI and engineering acceleration there.
 
 ## Tripwire
 
+[![CI](https://github.com/phil-base/tripwire/actions/workflows/ci.yml/badge.svg)](https://github.com/phil-base/tripwire/actions/workflows/ci.yml)
+
 [Tripwire](https://github.com/phil-base/tripwire) is a lightweight C memory debugging wrapper. Drop two files into any C project and it transparently catches buffer overflows, double frees, and memory leaks — no compiler flags, no external tools, no linking. Works with any C89+ compiler on any platform where `malloc` works.
